@@ -1,0 +1,14 @@
+{
+	"resource": {
+		"openstack_compute_instance_v2": {
+			"instance_1": {
+				"name": "openstack",
+				"image_id": "fc739109-e625-4267-ab1d-178fa4242702",
+				"network": {
+					"name": "public"
+				},
+				"flavor_name": "m1.small"
+			}
+		}
+	}
+}
